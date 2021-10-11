@@ -50,7 +50,7 @@ data = [{
     }
 }]
 
-my_layout = Layout(title='Global Earthquake 1 Day')
+my_layout = Layout(title='Global Earthquake 30 Days')
 
 fig = {'data': data, 'layout': my_layout}
 
